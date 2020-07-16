@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D434A2C-8E3C-4FA8-B289-7E2EAFFC9A9A}"
+	ProjectSection(SolutionItems) = preProject
+		ClsSunrise.vb = ClsSunrise.vb
+		FrmMain.Designer.vb = FrmMain.Designer.vb
+		FrmMain.resx = FrmMain.resx
+		FrmMain.vb = FrmMain.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5123BFE3-2178-4AE1-883C-F0A6A2064E20}
+	EndGlobalSection
+EndGlobal
